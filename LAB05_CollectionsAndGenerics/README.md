@@ -28,7 +28,7 @@ Hint: Maga a bináris keresés algoritmusa adott, csak ki kell kommentezni, a re
 
 Vizsgáljuk meg a futási időket! Mennyivel tart tovább a beszúrás, mint eddig? A választ ide írd be és majd commitold ennek a fájlnak a változásait is a megoldással együtt:
 
-VÁLASZ: Régi futásidő: _____, új futásidő: ______
+VÁLASZ: Régi futásidő:  00:00:00.0071935, új futásidő:  00:00:00.0088369
 
 Készítsünk egy olyan megvalósítást, ami egy másik adatstruktúrát használ, ahol új elem bárhova beszúrása könnyedén lehetséges!
 
